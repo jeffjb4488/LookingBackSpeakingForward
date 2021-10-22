@@ -11388,8 +11388,9 @@ p {
     z-index: 0;
   }
   .about-heading .about-heading-content {
-    margin-top: 10rem;
+    margin-top: -5rem;
     position: relative;
+    top: 5rem;
     z-index: 1;
   }
 }
